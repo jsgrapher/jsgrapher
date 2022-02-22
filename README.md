@@ -1,22 +1,26 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+  <img src="https://raw.githubusercontent.com/jsgrapher/jsgrapher/main/name.svg" alt="JSgrapher" />
 </h1>
 
 ## Hey! 👋
-I'm Marton, a 18 years old web developer from Hungary.
+I'm JSgrapher, a 19 years developer from India.
+AKA Jeesan Islam
 
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
-
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
+🐺 GAMMA γ <br>
+↳Editing Enthusiast 👨‍ <br>
+↳Tech Enthusiast 💻 <br>
+° <br>
+° <br>
+Being Honest is NOT Always Good 🤔 <br>
+Loyalty is a Choice 💙 <br>
+٩(◕‿◕｡)۶ <br>
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, C#
-- ⚙️ React, Svelte, Vue
+- 👨‍💻 Python, HTML, JavaScript
 - 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
+- 💽 MySQL
+- 💻 DaVinci Resolve, Photoshop, Lightroom, DarkTable, After Effects
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](https://twitter.com/instagram) on Instagram
-- [Marton#6513](./) on Discord
+- [@jsgrapher](https://twitter.com/instagram) on Instagram
+- [𝕁𝕊𝔤𝔯𝔞𝔭𝔥𝔢𝔯 †#0146](./) on Discord
