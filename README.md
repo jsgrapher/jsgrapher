@@ -22,5 +22,5 @@ Loyalty is a Choice 💙 <br>
 - 💻 DaVinci Resolve, Photoshop, Lightroom, DarkTable, After Effects
 
 ## Contact
-- [@jsgrapher](https://twitter.com/instagram) on Instagram
-- [𝕁𝕊𝔤𝔯𝔞𝔭𝔥𝔢𝔯 †#0146](./) on Discord
+- [@jsgrapher](https://instagram.com/jsgrapher) on Instagram
+- [𝕁𝕊𝔤𝔯𝔞𝔭𝔥𝔢𝔯 †#0146](https://discord.com/login) on Discord
